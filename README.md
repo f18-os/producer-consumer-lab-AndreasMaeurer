@@ -1,18 +1,18 @@
-## Andreas Maeurer
+# Andreas Maeurer
 
-# Per Dr. Freudenthal's email I tried implementing pieces of the lab with integers before doing the actual lab.
+## Per Dr. Freudenthal's email I tried implementing pieces of the lab with integers before doing the actual lab.
 
-# The file FirstPieceOfPcLab.py implements one producer that produces integers from one to 20 and one consumer that prints the integers
+## The file FirstPieceOfPcLab.py implements one producer that produces integers from one to 20 and one consumer that prints the integers
 
-# The file SecondPieceOfPcLab.py implements one producer (20 integers again), one processor (adds 1000 to each one), and one consumer (prints to screen)
+## The file SecondPieceOfPcLab.py implements one producer (20 integers again), one processor (adds 1000 to each one), and one consumer (prints to screen)
 
-# The file ExtractAndDisplayWithMoreComments.py is the given code just with more comments that I wrote to help me understand what the code does
+## The file ExtractAndDisplayWithMoreComments.py is the given code just with more comments that I wrote to help me understand what the code does
 
-# I have a readme and a collaboration file
+## I have a readme and a collaboration file
 
-## The file actualProdConsLab.py implements the actual lab.
+# The file actualProdConsLab.py implements the actual lab.
 
-# The given Lab Instructions:
+## The given Lab Instructions:
 
 # Producer Consumer Lab
 
