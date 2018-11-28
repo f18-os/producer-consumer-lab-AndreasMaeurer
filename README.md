@@ -1,3 +1,19 @@
+## Andreas Maeurer
+
+# Per Dr. Freudenthal's email I tried implementing pieces of the lab with integers before doing the actual lab.
+
+# The file FirstPieceOfPcLab.py implements one producer that produces integers from one to 20 and one consumer that prints the integers
+
+# The file SecondPieceOfPcLab.py implements one producer (20 integers again), one processor (adds 1000 to each one), and one consumer (prints to screen)
+
+# The file ExtractAndDisplayWithMoreComments.py is the given code just with more comments that I wrote to help me understand what the code does
+
+# I have a readme and a collaboration file
+
+## The file actualProdConsLab.py implements the actual lab.
+
+# The given Lab Instructions:
+
 # Producer Consumer Lab
 
 For this lab you will implement a trivial producer-consumer system using
@@ -24,7 +40,7 @@ Loads a series of frames sequently from files with the names
 'grayscale_xxxx.jpg' and displays them with a 42ms delay.
 
 ### ExtractAndDisplay.py
-Loads a series of framss from a video contained in 'clip.mp4' and displays 
+Loads a series of frames from a video contained in 'clip.mp4' and displays 
 them with a 42ms delay
 
 ## Requirements

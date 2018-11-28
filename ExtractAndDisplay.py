@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import threading
-import cv2
+import cv2				#cv stands for Computer Vision
 import numpy as np
 import base64
 import queue
@@ -21,7 +21,7 @@ def extractFrames(fileName, outputBuffer):
         # get a jpg encoded frame
         success, jpgImage = cv2.imencode('.jpg', image)
 
-        #encode the frame as base 64 to make debugging easier
+        #encode the frame as base 64 to make debugging easier			#Das hier
         jpgAsText = base64.b64encode(jpgImage)
 
         # add the frame to the buffer

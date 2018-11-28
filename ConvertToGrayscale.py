@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import cv2
+import cv2			#cv stands for Computer Vision
 
 # globals
 outputDir    = 'frames'

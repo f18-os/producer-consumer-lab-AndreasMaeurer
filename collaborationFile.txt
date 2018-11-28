@@ -1,0 +1,20 @@
+Producer Consumer Lab
+OS Fall 2018
+Andreas Maeurer
+
+For this lab I referred to the following web pages:
+https://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Producer_Consumer_using_queue.php
+https://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/
+https://www.youtube.com/watch?v=nmkBk1Rb8ig&t=6s
+http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf
+http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf
+https://docs.python.org/2/library/queue.html
+https://docs.python.org/3/library/queue.html
+
+
+I also referred to the class oneNote from october 23rd.
+
+I discussed closing threads with Sergio Yanez.
+I discussed semaphores with Stephanie Medina
+I discussed and worked on the lab in general with Elizardo Baeza, Sergio Chavez and Sergio Ponce De Leon.
+

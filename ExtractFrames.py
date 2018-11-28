@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
-import cv2
+import cv2				#cv stands for Computer Vision
+"""
+got error: ModuleNotFoundError: No module named 'cv2'
+resolved with: sudo pip install opencv-python
+"""
+
 import os
 # globals
 outputDir    = 'frames'
